@@ -15,6 +15,6 @@
 
 <p align="center">
     <img src="images/development.jpeg" 
-     width="800" height="300"/>
+     width="600" height="600"/>
 </p>
 
