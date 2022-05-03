@@ -11,10 +11,17 @@
     Mirna
     Cristian
 
-## Development
+## Development process
 
 <p align="center">
     <img src="images/development.jpeg" 
-     width="600" height="600"/>
+     width="1200" height="600"/>
 </p>
 
+
+## Results
+
+<p align="center">
+    <img src="images/results.jpeg" 
+     width="1200" height="600"/>
+</p>
