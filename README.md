@@ -10,3 +10,11 @@
     Ana Maria
     Mirna
     Cristian
+
+## Development
+
+<p align="center">
+    <img src="images/development.jpeg" 
+     width="800" height="300"/>
+</p>
+
